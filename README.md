@@ -7,7 +7,7 @@
 <h2>Java Internship through Code Alpha </h2>
 <h1>Task 1</h1>
 <spam>
-  This is a project of Number guessing name. Its is totally based on one language called Java.
+  This is a project of Number guessing game. Its is totally based on one language called Java.
   I have used Eclipse as a platform to write the code.In this project end-user gives a random 
   number between 1 to 100, The number compares to Computer generated number and gives answer 
   according to the output.
