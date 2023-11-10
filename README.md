@@ -5,6 +5,7 @@
 
 <h1> # CodeAlpha_Tasks </h1>
 <h2>Java Internship through Code Alpha </h2>
+<h1>First Assignment</h1>
 <h1>Task 1</h1>
 <spam>
   This is a project of Number guessing game. Its is totally based on one language called Java.
@@ -29,4 +30,29 @@ https://github.com/Shahnawazahm/CodeAlpha_Tasks/assets/102315055/1fa502b3-1b36-4
 
 
 https://github.com/Shahnawazahm/CodeAlpha_Tasks/assets/102315055/4369f006-eec4-422a-ab72-cf4c0f520ad2
+
+<h1>Second Assignment</h1>
+<h1>Task 1</h1>
+<spam>
+  Java Word Counter
+
+🚀 Developed a Java program for counting words in a sentence or phrase.
+
+Key Features:
+
+Utilizes the split method for string manipulation.
+Provides a simple and efficient word count functionality.
+How to Use:
+
+Run the program.
+Enter the desired sentence or phrase.
+Obtain the word count result.
+Note:
+
+While the program serves a basic function, it may not handle all edge cases.
+🔧 Technologies: Java, Git
+
+Feel free to explore the code on GitHub for educational purposes and customization.
+</spam>
+  
 
