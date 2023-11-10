@@ -41,8 +41,8 @@ https://github.com/Shahnawazahm/CodeAlpha_Tasks/assets/102315055/4369f006-eec4-4
 Key Features:
 
 Utilizes the split method for string manipulation.
-Provides a simple and efficient word count functionality.
-How to Use:
+Provides a simple and efficient word count functionality.<br>
+<h3>How to Use: </h3>
 
 Run the program.
 Enter the desired sentence or phrase.
