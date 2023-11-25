@@ -62,3 +62,26 @@ Feel free to explore the code on GitHub for educational purposes and customizati
 https://github.com/Shahnawazahm/CodeAlpha_Tasks/assets/102315055/5dee1187-f82e-4c03-a0ae-2f4c9caa0651
 
 
+
+<h1>Third Assignment</h1>
+<h1>Task 1</h1>
+<spam>
+🚗 Car Rental System (Java)
+
+Proud to showcase my latest project – a comprehensive Car Rental System developed entirely in Java.
+Key features include streamlined reservation management, real-time inventory tracking, and secure payment integration.
+Leveraged Java for backend development, focusing on scalability and efficiency.
+Utilized robust database management and implemented security measures to ensure data integrity.
+Actively seeking opportunities to contribute my Java skills and passion for creating efficient solutions.
+Let's connect and discuss potential collaborations.
+#JavaDevelopment #CarRentalSystem #ProjectShowcase
+</spam>
+
+
+
+https://github.com/Shahnawazahm/CodeAlpha_Tasks/assets/102315055/265087d0-5c37-4031-9f7b-fea7cae27bb8
+
+
+
+
+
