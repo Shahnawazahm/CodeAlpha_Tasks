@@ -82,6 +82,25 @@ Let's connect and discuss potential collaborations.
 https://github.com/Shahnawazahm/CodeAlpha_Tasks/assets/102315055/265087d0-5c37-4031-9f7b-fea7cae27bb8
 
 
+<h1> 5th Assignment</h1>
+<h1>Task 1</h1>
+<spam>
+🚀 Project: Employee Leave Management System
 
+Designed and implemented an Employee Leave Management System in Java. The system enables employees to request leave, tracks leave balances, and automates the approval process. Key features include:
+
+Employee Class: Manages employee details such as ID, name, and leave balance. Includes a method to deduct leave days.
+
+LeaveRequest Class: Represents a leave request with employee ID and the number of leave days.
+
+LeaveManagementSystem Class: Orchestrates leave requests, processes approvals, and updates leave balances. Includes functionality to add employees, request leave, and process leave requests.
+
+Console Interface: Users can interact with the system through a console-based interface, making it user-friendly.
+</spam>
+
+
+
+
+https://github.com/Shahnawazahm/CodeAlpha_Tasks/assets/102315055/f38b57a5-fa9b-4aae-bf47-46850bf736c3
 
 
