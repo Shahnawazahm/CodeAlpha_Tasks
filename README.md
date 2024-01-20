@@ -104,3 +104,24 @@ Console Interface: Users can interact with the system through a console-based in
 https://github.com/Shahnawazahm/CodeAlpha_Tasks/assets/102315055/f38b57a5-fa9b-4aae-bf47-46850bf736c3
 
 
+
+<h1>6th Assignment</h1>
+<h1>Task1</h1>
+<spam>
+
+  Project Description: 3D Game Engine (Work-in-Progress)
+
+This project is a work-in-progress aimed at developing a basic 3D game engine using Java. The current implementation includes fundamental components such as a 3D vector class (Vector3D), a representation for 3D game objects (GameObject), a simple renderer (Renderer) for displaying objects in the scene, and a basic physics simulation (Physics) to apply gravity to the objects.
+
+The Scene class acts as a central hub, managing game objects, updating physics, and rendering the scene. The main class, SimpleGameEngine, serves as a testing ground for adding objects to the scene, simulating physics, and observing the rendering.
+
+It's important to note that this project is currently incomplete, serving as a foundational step towards building a comprehensive 3D game engine. Future enhancements may include advanced rendering techniques, user input handling, collision detection, and integration with external libraries for graphics and physics. The current implementation provides a starting point for further development and expansion.
+</spam>
+
+
+
+
+Uploading task7 (1).mp4…
+
+
+
