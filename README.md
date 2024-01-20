@@ -121,7 +121,7 @@ It's important to note that this project is currently incomplete, serving as a f
 
 
 
-Uploading task7 (1).mp4…
+…
 
 
 
